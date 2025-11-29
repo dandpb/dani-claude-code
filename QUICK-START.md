@@ -4,18 +4,18 @@
 
 ```bash
 # 1. Create GitHub repo at: https://github.com/new
-# Name: edmunds-claude-code
+# Name: dani-claude-code
 # Visibility: Public
 
 # 2. Push your code
-cd ~/Documents/GitHub/edmunds-claude-code
-git remote add origin https://github.com/edmund-io/edmunds-claude-code.git
+cd ~/Documents/GitHub/dani-claude-code
+git remote add origin https://github.com/dani-io/dani-claude-code.git
 git push -u origin main
 
 # 3. Share with others
 # Installation commands:
-# /plugin marketplace add edmund-io/edmunds-claude-code
-# /plugin install edmunds-claude-code
+# /plugin marketplace add dani-io/dani-claude-code
+# /plugin install dani-claude-code
 ```
 
 ## What You Have
@@ -33,29 +33,29 @@ git push -u origin main
 
 ## Repository Location
 
-`~/Documents/GitHub/edmunds-claude-code/`
+`~/Documents/GitHub/dani-claude-code/`
 
 ## Next Steps
 
 1. **Read PUBLISHING.md** - Full step-by-step guide
 2. **Create GitHub Repo** - https://github.com/new
 3. **Push Code** - See commands above
-4. **Test Installation** - `/plugin install edmund-io/edmunds-claude-code`
+4. **Test Installation** - `/plugin install dani-io/dani-claude-code`
 5. **Share** - Post on social media, submit to marketplaces
 
 ## Installation Commands (for users)
 
 ```bash
 # Step 1: Add marketplace
-/plugin marketplace add edmund-io/edmunds-claude-code
+/plugin marketplace add dani-io/dani-claude-code
 
 # Step 2: Install plugin
-/plugin install edmunds-claude-code
+/plugin install dani-claude-code
 ```
 
 ## Your Plugin URL (after publishing)
 
-https://github.com/edmund-io/edmunds-claude-code
+https://github.com/dani-io/dani-claude-code
 
 ## Need Help?
 

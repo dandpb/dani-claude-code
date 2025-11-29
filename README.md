@@ -1,4 +1,4 @@
-# Edmund's Claude Code Setup
+# dani's Claude Code Setup
 
 My personal Claude Code configuration for productive web development. This plugin provides **14 slash commands** and **11 specialized AI agents** to supercharge your development workflow.
 
@@ -6,10 +6,10 @@ My personal Claude Code configuration for productive web development. This plugi
 
 ```bash
 # Step 1: Add the marketplace
-/plugin marketplace add edmund-io/edmunds-claude-code
+/plugin marketplace add dandpb/dani-claude-code
 
 # Step 2: Install the plugin
-/plugin install edmunds-claude-code
+/plugin install dani-claude-code
 ```
 
 ## What's Inside
@@ -65,23 +65,23 @@ My personal Claude Code configuration for productive web development. This plugi
 
 ```bash
 # Add marketplace
-/plugin marketplace add edmund-io/edmunds-claude-code
+/plugin marketplace add dandpb/dani-claude-code
 
 # Install plugin
-/plugin install edmunds-claude-code
+/plugin install dani-claude-code
 ```
 
 ### From Local Clone (for development)
 
 ```bash
-git clone https://github.com/edmund-io/edmunds-claude-code.git
-cd edmunds-claude-code
+git clone https://github.com/dandpb/dani-claude-code.git
+cd dani-claude-code
 
 # Add as local marketplace
-/plugin marketplace add /path/to/edmunds-claude-code
+/plugin marketplace add /path/to/dani-claude-code
 
 # Install plugin
-/plugin install edmunds-claude-code
+/plugin install dani-claude-code
 ```
 
 ## Best For
@@ -147,7 +147,7 @@ MIT - Use freely in your projects
 
 ## Author
 
-Created by Edmund
+Created by dani
 
 ---
 

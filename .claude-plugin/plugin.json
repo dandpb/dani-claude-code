@@ -1,8 +1,8 @@
 {
-  "name": "edmunds-claude-code",
+  "name": "dani-claude-code",
   "version": "1.0.0",
-  "description": "Edmund's personal Claude Code setup with 14 productivity commands and 11 specialized AI agents for modern web development",
-  "author": "Edmund",
+  "description": "dani's personal Claude Code setup with 14 productivity commands and 11 specialized AI agents for modern web development",
+  "author": "dani",
   "license": "MIT",
   "commands": [
     {
