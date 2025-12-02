@@ -70,8 +70,8 @@ Define "done":
 
 ### Files to Modify/Create
 ```
-app/page.tsx (modify)
-components/NewComponent.tsx (create)
+app/page.ts (modify)
+components/NewComponent.ts (create)
 lib/utils.ts (modify)
 ```
 
@@ -94,4 +94,4 @@ npm install package-name
 2. Test incrementally
 3. Commit often
 
-Provide a clear, solo-developer-friendly plan that breaks down complex tasks into manageable steps.
+Provide a clear, developer-friendly plan that breaks down complex tasks into manageable steps.

@@ -2,7 +2,7 @@
   "name": "dani-claude-code",
   "owner": {
     "name": "dani",
-    "contact": "github.com/dani-io"
+    "contact": "github.com/dandpb"
   },
   "description": "dani's curated Claude Code setup for productive development",
   "plugins": [
